@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Wöjkuö (Arte y Cultura)"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Traducción: Mascara Ceremonial"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirbook"
+        android:text="Esta es una de las más conocidas muestras de arte y cultura de los pueblos indígenas. Se utilizaban y se daban a conocer mediante las ceremonias, especialmente la de los diablitos, la más conocida. En cada mascara queda plasmada la habilidad y creatividad de los indígenas, algunas de ellas son representaciones de expresiones, dioses y animales."
+        android:textColor="@color/black" />
+</LinearLayout>

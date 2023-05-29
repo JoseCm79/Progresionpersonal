@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Kábatá (Aire Libre y Naturaleza)"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Traducción: Montaña"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirbook"
+        android:text="En la montaña los indígenas costarricenses descubrieron desde hace mucho tiempo atrás la generosidad de Sibö, en ella desarrollaron toda una gama de técnicas que les permitió sobrevivir en equilibrio con su entorno; esta es la razón por la cual han sido, y son, expertos en el acecho y en la caza, además de conocer los poderes curativos de la naturaleza estando en unión con ella y respetando, ante todo, el uso que hace de la misma."
+        android:textColor="@color/black" />
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context=".ListaWakNombres">
+
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="44dp"
+            android:layout_height="38dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginTop="34dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/logoaso" />
+
+        <ImageButton
+            android:id="@+id/EliminarWak"
+            android:layout_width="44dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginEnd="22dp"
+            android:background="@drawable/eliminar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="124dp"
+            android:layout_marginTop="37dp"
+            android:layout_marginEnd="124dp"
+            android:layout_marginBottom="650dp"
+            android:text="@string/ListaWak"
+            android:textAllCaps="false"
+            android:textColor="@color/letra_aso_azul"
+            android:textSize="24sp"
+            android:textStyle="bold|italic"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/anadirwak"
+            android:layout_width="210dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="98dp"
+            android:layout_marginTop="664dp"
+            android:layout_marginEnd="99dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/anadirwak"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ListView
+            android:id="@+id/Messi"
+            android:layout_width="335dp"
+            android:layout_height="515dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="112dp"
+            android:layout_marginEnd="28dp"
+            android:layout_marginBottom="87dp"
+            android:background="@drawable/bordes"
+            android:divider="@drawable/vacio"
+            android:dividerHeight="2dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </ListView>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

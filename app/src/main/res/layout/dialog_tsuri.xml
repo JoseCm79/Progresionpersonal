@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Tercera Etapa: Tsurí (Joven)"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirbook"
+        android:text="El marco en que se encierra esta figura no tiene una forma definida, pero sí continua. Esto porque el joven en esta etapa aún no define lo que ha descubierto de sí mismo, de los demás y del mundo que lo rodea, no obstante, es persistente en el descubrimiento en el cual se encuentra. Los colores morado oscuro y celeste representan el cielo de noche y de día, respectivamente, como recuerdo del camino recorrido. La figura central para esta etapa es Sibú, elemento importantísimo de las culturas indígenas costarricenses, pues fue Él (Sibú, Dios Todopoderoso) quien sopló el entendimiento a los hombres y les enseñó a cantar, a bailar, a usar ollas, y a encender el fuego. Esta imagen aparece sobre un fondo blanco que significa pureza y tranquilidad."
+        android:textColor="@color/black" />
+</LinearLayout>

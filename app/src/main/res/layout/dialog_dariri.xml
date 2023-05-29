@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Segunda Etapa: Dariri (Fuerte)"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirbook"
+        android:text="Para los indígenas, las piedras no solo denotaban fuerza, sino que algunas (esferas trabajadas en piedra) representaban sitios importantes y rutas a seguir. Esta etapa es representada por esferas de piedra, semejantes a las encontradas en el Pacífico Sur de Costa Rica. Además, poseen un petroglifo que representa un triángulo, forma como los indígenas guaimíes consideraban el universo (agua, tierra y mundo de los humanos), que en el centro posee una espiral. Esta última recuerda a las serpientes de agua y los gusanos de la tierra, espíritus que cuidaban; ambos elementos proponen a los miembros juveniles crear una nueva realidad a partir de la ya existente."
+        android:textColor="@color/black" />
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Progresión Siempre Listos</string>
+    <string name="app_name2">Progresión Siempre Listos (Dirigente)</string>
+    <string name="InicioTropa">Progresión de Tropa</string>
+    <string name="InicioWak">Plan de progresión Personal(PPP)</string>
+    <string name="RegistrarTropa">Tropero a registrar:</string>
+    <string name="RegistrarWak">Tsurí a registrar:</string>
+    <string name="ListaTropa">Tropero(a) a realizar:</string>
+    <string name="ListaWak">Tsurí a realizar:</string>
+    <string name="nombreentry">Nombre y apellidos</string>
+    <string name="dateEntry">Día/Mes/Año de nacimiento</string>
+    <string name="numEntryEncargado">Número de encargado</string>
+    <string name="numEntry">Número del chico(a)</string>
+    <string name="edadEntry">Edad del chico(a)</string>
+    <string name="inicial">Inicial</string>
+    <string name="intermedio">Intermedio</string>
+    <string name="avanzado">Avanzado</string>
+</resources>

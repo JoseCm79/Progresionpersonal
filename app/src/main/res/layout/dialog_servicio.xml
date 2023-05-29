@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Kímuk (Servicio)"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirblack"
+        android:text="Traducción: Ayudar"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:fontFamily="@font/avenirbook"
+        android:text="El Sukia (elemento representativo de la insignia) es una figura indígena que representa al médico brujo y sacerdote de la aldea, el cual se caracterizaba por dedicarse en todo momento al servicio de la tribu. Era admirado y temido al mismo tiempo, tanto por su entrega a los suyos como por ser el intermediario entre la tribu y los Awapá quienes estaban en contacto constante con Sibö."
+        android:textColor="@color/black" />
+</LinearLayout>

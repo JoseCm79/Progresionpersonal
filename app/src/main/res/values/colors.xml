@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="letra_aso_azul">#2C1261</color>
+    <color name="letra_aso_azul2">#902C1261</color>
+    <color name="letra_aso_red">#ED1A39</color>
+    <color name="tropa_normal">#04BC99</color>
+    <color name="tropa_oscura">#03987A</color>
+    <color name="wak_normal">#00b0c6</color>
+    <color name="wak_oscura">#0092A2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="libretacolor">#EFE9E6</color>
+    <color name="libretacolorfondo">#FFF4E1</color>
+</resources>
